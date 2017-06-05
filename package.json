@@ -1,0 +1,22 @@
+{
+  "name": "MMM-blissConnect",
+  "version": "1.0.1",
+  "description": "exitB Blisstribute connect",
+  "main": "MMM-blissConnect.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccarnivore/MMM-blissConnect"
+  },
+  "author": "Roman Robel exitB GmbH",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "latest",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest"
+  }
+}

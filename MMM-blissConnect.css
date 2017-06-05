@@ -1,0 +1,42 @@
+/*
+ *
+ * MMM-blissConnect
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+.MMM-blissConnect .module-header {
+    color: #ffffff;
+    font-size: 16pt;
+}
+.MMM-blissConnect .section_header {
+    color: #ffffff;
+    font-size: 16pt;
+}
+
+.MMM-blissConnect .nameContainer {
+    font-size: 16pt;
+    color: #888888;
+    float: left;
+    line-height: 25px;
+    font-weight: lighter;
+}
+
+.MMM-blissConnect .valueContainer {
+    font-size: 16pt;
+    color: #ffffff;
+    float: right;
+    line-height: 25px;
+    font-weight: normal;
+}
+
+.MMM-blissConnect .updateTimestamp {
+    font-size: 8pt;
+    color: #888888;
+    text-align: right;
+    line-height: 16px;
+
+}
